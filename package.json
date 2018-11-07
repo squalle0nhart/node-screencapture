@@ -1,6 +1,6 @@
 {
   "name": "node-screenshotcapture",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Take a screenshot of your desktop",
   "main": "index.js",
   "author": "squalle0nhart",
