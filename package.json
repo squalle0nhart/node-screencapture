@@ -1,0 +1,29 @@
+{
+  "name": "screencapture",
+  "version": "0.3.1",
+  "description": "Take a screenshot of your desktop",
+  "main": "index.js",
+  "author": "uiureo",
+  "os": [
+    "freebsd",
+    "win32",
+    "darwin",
+    "linux"
+  ],
+  "scripts": {
+    "test": "standard && tape 'test/**/*.js' | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/uiureo/node-screencapture.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "tmp": "0.0.33"
+  },
+  "devDependencies": {
+    "standard": "^5.3.1",
+    "tap-spec": "^4.1.0",
+    "tape": "^2.14.0"
+  }
+}
