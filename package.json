@@ -1,9 +1,9 @@
 {
-  "name": "screencapture",
-  "version": "0.3.1",
+  "name": "node-screenshotcapture",
+  "version": "0.1.1",
   "description": "Take a screenshot of your desktop",
   "main": "index.js",
-  "author": "uiureo",
+  "author": "squalle0nhart",
   "os": [
     "freebsd",
     "win32",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/uiureo/node-screencapture.git"
+    "url": "https://github.com/squalle0nhart/node-screencapture"
   },
   "license": "MIT",
   "dependencies": {
